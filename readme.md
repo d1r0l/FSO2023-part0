@@ -1,0 +1,1 @@
+# This repository contains results of exercises 0.4.-0.6. of Full Stack Open 2023 performed by me
