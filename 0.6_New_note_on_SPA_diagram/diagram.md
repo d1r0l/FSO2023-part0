@@ -14,6 +14,6 @@ sequenceDiagram
     activate server
     server->>browser: status code 201 created
     deactivate server
-    Note right of browser: The browser executes JavaScrypt code that rerenders the page
+    Note right of browser: The browser executes JavaScrypt code callback function that rerenders the page
     deactivate browser
 ```
